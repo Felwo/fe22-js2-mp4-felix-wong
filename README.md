@@ -1,5 +1,5 @@
 # fe22-js2-mp4-felix-wong
-#Miniräknare
+## Miniräknare
 För att skapa en enkel aritmetisk kalkylator med Typescript kan man använda sig av följande steg:
 
 - Skapade ett Typescript-projekt med parcel bundler, som är utförs genom npm init -y och npm i parcel -D
